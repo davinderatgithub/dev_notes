@@ -1,1 +1,0 @@
-Goal is to scale database horizontal using Partitions feature on PostgreSQL. Finally we’ll have a distributed Postgres system handling read and write queries. And user can query to any of the server to get the result.
